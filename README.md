@@ -19,6 +19,28 @@ Focus is easier when someone's there. Zirain brings people together in live focu
 
 Zirain is for students, remote workers, founders, and anyone who finds it easier to follow through with other people present. This approach is often called *body doubling*: working alongside someone while each person tackles their own tasks.
 
+## See Zirain in action
+
+These screenshots show the current Zirain interface using a **synthetic demonstration account and sample data**. They do not show real users, live sessions, or private rooms. Example statistics are illustrative, not customer results.
+
+### Choose how you focus
+
+Start with a group drop-in, create a custom room, book a one-on-one session, or use classroom mode.
+
+![Zirain session choices, captured with a synthetic demonstration account](assets/session-options.png)
+
+### Review your focus progress
+
+See your focused minutes, rank, streaks, booked sessions, and personal focus behaviour.
+
+![Zirain focus statistics with synthetic minutes, streaks, and session counts](assets/focus-progress.png)
+
+### Earn ranks through focused time
+
+Explore the rank progression and the visual rewards associated with focused hours.
+
+![Zirain rank progression showing a synthetic Silver 3 demonstration account](assets/focus-ranks.png)
+
 ## Get started
 
 1. Visit **[zirain.com](https://zirain.com)** and create an account or sign in.
@@ -30,7 +52,7 @@ The desktop app is currently offered for **Windows** and **macOS (Apple Silicon)
 
 ## About this repository
 
-This is Zirain's **public product showcase**, not its application source repository. It contains only this product overview and the Zirain logo.
+This is Zirain's **public product showcase**, not its application source repository. It contains only this product overview, the Zirain logo, and reviewed product screenshots using synthetic demonstration data.
 
 The Zirain website, backend, and desktop application are **proprietary software**. Their source code, build instructions, and release binaries are not published here. To use Zirain, visit the website and the official download page linked above.
 
